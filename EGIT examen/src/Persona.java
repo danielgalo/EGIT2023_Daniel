@@ -16,7 +16,7 @@ public class Persona {
   }
 
   public String datosPersona() {
-    return "Persona [nombre=" + nombre + ", apellidos=" + apellidos + ", edad=" + edad + "]";
+    return "Persona [nombre =" + nombre + ", apellidos=" + apellidos + ", edad=" + edad + "]";
   }
   
   
